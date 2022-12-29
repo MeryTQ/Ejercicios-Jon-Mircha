@@ -60,3 +60,22 @@ Programa una función que elimine cierto patrón de caracteres de un texto dado,
 miFuncion("xyz1, xyz2, xyz3, xyz4 y xyz5", "xyz"); //devolverá  "1, 2, 3, 4 y 5.
 ```
 ---
+
+### [✅**Ejercicio 9**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio9.js)
+Programa una función que obtenga un numero aleatorio entre 501 y 600.
+
+---
+
+### [✅**Ejercicio 10**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio10.js)
+Programa una función que reciba un número y evalúe si es capicúa o no (que se lee igual en un sentido que en otro), por ejemplo: 
+```javascript
+miFuncion(2002); //devolverá true.
+```
+---
+
+### [✅**Ejercicio 11**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio11.js)
+Programa una función que calcule el factorial de un número (El factorial de un entero positivo n, se define como el producto de todos los números enteros positivos desde 1 hasta n), por ejemplo: 
+```javascript
+miFuncion(5); //devolverá 120.
+```
+---
