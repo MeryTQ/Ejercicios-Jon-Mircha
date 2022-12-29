@@ -1,0 +1,11 @@
+{
+  "name": "mircha",
+  "version": "1.0.0",
+  "description": "**Estos ejercicios pertenecen al curso de programación en JavaScript de jonmircha(YouTube) de los videos 34, 35, 36, 37, 38, 39 40, 41, 42 y 43. Todas las soluciones fueron pensadas por mi.** 🤗",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
