@@ -79,3 +79,23 @@ Programa una función que calcule el factorial de un número (El factorial de un
 miFuncion(5); //devolverá 120.
 ```
 ---
+### [✅**Ejercicio 12**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio12.js)
+Programa una función que determine si un número es primo (aquel que solo es divisible por sí mismo y 1) o no. Por ejemplo: 
+```javascript
+miFuncion(7); //devolverá true.
+```
+---
+
+### [✅**Ejercicio 13**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio13.js)
+Programa una función que determine si un número es par o impar. Por ejemplo: 
+```javascript
+miFuncion(29); //devolverá Impar.
+```
+---
+
+### [✅**Ejercicio 14**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio14.js)
+Programa una función para convertir grados Celsius a Fahrenheit y viceversa. Por ejemplo: 
+```javascript
+miFuncion(0,"C"); //devolverá 32°F.
+```
+---
