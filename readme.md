@@ -99,3 +99,23 @@ Programa una función para convertir grados Celsius a Fahrenheit y viceversa. Po
 miFuncion(0,"C"); //devolverá 32°F.
 ```
 ---
+
+### [✅**Ejercicio 15**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio15.js)
+Programa una función para convertir números de base binaria a decimal y viceversa. Por ejemplo:
+```javascript
+miFuncion(100,2); //devolverá 4 base 10.
+```
+---
+
+### [✅**Ejercicio 16**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio16.js)
+Programa una función que devuelva el monto final después de aplicar un descuento a una cantidad dada. Por ejemplo:
+```javascript
+miFuncion(1000, 20); //devolverá 800.
+```
+---
+
+### [✅**Ejercicio 17**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio17.js)
+Programa una función que dada una fecha válida determine cuantos años han pasado hasta el día de hoy. Por ejemplo: 
+```javascript
+miFuncion(new Date(1984,4,23)); //devolverá 38 años (en 2022).
+```
