@@ -119,3 +119,25 @@ Programa una función que dada una fecha válida determine cuantos años han pas
 ```javascript
 miFuncion(new Date(1984,4,23)); //devolverá 38 años (en 2022).
 ```
+---
+
+### [✅**Ejercicio 18**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio18.js)
+Programa una función que dada una cadena de texto cuente el número de vocales y consonantes. Por ejemplo: 
+```javascript
+miFuncion("Hola Mundo"); //devuelva Vocales: 4, Consonantes: 5.
+```
+---
+
+### [✅**Ejercicio 19**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio19.js)
+Programa una función que valide que un texto sea un nombre válido. Por ejemplo: 
+```javascript
+miFuncion("Jonathan MirCha"); //devolverá verdadero.
+```
+---
+
+### [✅**Ejercicio 20**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio20.js)
+Programa una función que valide que un texto sea un email válido. Por ejemplo: 
+```javascript
+miFuncion("jonmircha@gmail.com"); //devolverá verdadero.
+```
+---
