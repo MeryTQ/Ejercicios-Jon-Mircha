@@ -141,3 +141,23 @@ Programa una función que valide que un texto sea un email válido. Por ejemplo:
 miFuncion("jonmircha@gmail.com"); //devolverá verdadero.
 ```
 ---
+
+### [✅**Ejercicio 21**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio21.js)
+Programa una función que dado un array numérico devuelve otro array con los números elevados al cuadrado. Por ejemplo: 
+```javascript
+mi_funcion([1, 4, 5]); //devolverá [1, 16, 25].
+```
+---
+
+### [✅**Ejercicio 22**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio22.js)
+Programa una función que dado un array devuelva el número mas alto y el más bajo de dicho array. Por ejemplo: 
+```javascript
+miFuncion([1, 4, 5, 99, -60]); //devolverá [99, -60].
+```
+---
+
+### [✅**Ejercicio 23**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio23.js)
+Programa una función que dado un array de números devuelva un objeto con 2 arreglos en el primero almacena los números pares y en el segundo los impares. Por ejemplo: 
+```javascript
+miFuncion([1,2,3,4,5,6,7,8,9,0]); //devolverá {pares: [2,4,6,8,0], impares: [1,3,5,7,9]}.
+```

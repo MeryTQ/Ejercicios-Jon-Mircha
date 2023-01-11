@@ -2,6 +2,7 @@
 
 function vocalConsonante(cadena) {
     typeof cadena !== "string" && console.warn("Ingrese una cadena de texto");
+    !cadena && console.error("No ingresaste una cadena de texto");
     let vocales = 0;
     let consonantes = 0;
     for (let letra of cadena){
