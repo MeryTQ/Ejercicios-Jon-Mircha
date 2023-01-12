@@ -161,3 +161,24 @@ Programa una función que dado un array de números devuelva un objeto con 2 arr
 ```javascript
 miFuncion([1,2,3,4,5,6,7,8,9,0]); //devolverá {pares: [2,4,6,8,0], impares: [1,3,5,7,9]}.
 ```
+---
+
+### [✅**Ejercicio 24**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio24.js)
+Programa una función que dado un arreglo de números devuelva un objeto con dos arreglos, el primero tendrá los numeros ordenados en forma ascendente y el segundo de forma descendiente. Por ejemplo:
+```javascript
+miFuncion([7, 5,7,8,6]); //devolverá { asc: [5,6,7,7,8], desc: [8,7,7,6,5] }.
+```
+---
+
+### [✅**Ejercicio 25**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio25.js)
+Programa una función que dado un arreglo de elementos, elimine los duplicados. Por ejemplo: 
+```javascript
+miFuncion(["x", 10, "x", 2, "10", 10, true, true]); //devolverá ["x", 10, 2, "10", true].
+```
+---
+
+### [✅**Ejercicio 26**](https://github.com/MeryTQ/Ejercicios-de-Jonmircha/blob/main/js/ejercicio26.js)
+Programa una función que dado un arreglo de números obtenga el promedio. Por ejemplo: 
+```javascript
+promedio([9,8,7,6,5,4,3,2,1,0]); //devolverá 4.5.
+```
